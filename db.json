@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Matthew Witter",
+      "email": "matt.witter@ymail.com",
+      "conf_id": 1
+    },
+    {
+      "name": "Stephen Przepiora",
+      "email": "SteveP@sidearmsports.com",
+      "conf_id": 2
+    },
+    {
+      "name": "Jim Shorts",
+      "email": "jimshortshorts@gmail.com",
+      "conf_id": 3
+    }
+  ]
+}
